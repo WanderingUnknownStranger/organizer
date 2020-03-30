@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\organizer\organizer\bin\Debug\organizer.exe.config
+C:\Users\Admin\source\repos\organizer\organizer\bin\Debug\organizer.exe
+C:\Users\Admin\source\repos\organizer\organizer\bin\Debug\organizer.pdb
+C:\Users\Admin\source\repos\organizer\organizer\obj\Debug\organizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\organizer\organizer\obj\Debug\organizer.exe
+C:\Users\Admin\source\repos\organizer\organizer\obj\Debug\organizer.pdb
+C:\Users\Admin\source\repos\organizer\organizer\obj\Debug\organizer.csprojAssemblyReference.cache
