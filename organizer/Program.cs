@@ -18,9 +18,16 @@ namespace organizer
                 {
                     Console.WriteLine("What you want to do?\nA - show all memo\nE - Exit");
                     String str = Console.ReadLine();
-                    if(str == "E")
+                    if(str == "Exit")
                     {
                         break;
+                    }
+                    else if(str == "Edit")  
+                    {
+                        Console.WriteLine("Enter number element for edit:");
+                        int temp = Convert.ToInt32(Console.ReadLine()) - 1;
+                        Console.WriteLine(memo_list[temp].GetMemo());
+                        memo_list[temp].Edit(Console.ReadLine());
                     }
                     else if (str == "A")
                     {
